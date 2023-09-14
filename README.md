@@ -8,7 +8,7 @@
     📊 📈  Data visualization using vue-echarts
     <br />
     <br />
-    <a href="https://oleinikovapolina.github.io/visualization/dist/">View Demo →</a>
+    <a href="https://oleinikovapolina.github.io/VisualizationEmployeeAttrition/dist/">View Demo →</a>
   </p>
 </div>
 
